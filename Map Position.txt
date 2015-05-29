@@ -1,0 +1,1 @@
+I used https://mapzen.com/metro-extracts/. I decided to use Sydney, Australia data as that is where I live and I thought it would be interesting to see if it was much different to the data analysis from Chicago that I saw in the class exercises. Sydney is a densely populated city of approxiamtely 	5 million people on the east coast of Australia.
